@@ -1,0 +1,8 @@
+learning_rate: 0.001
+batch_size: 128
+num_epochs: 20
+optimizer: rmsprop
+augmentation:
+  max_rotation: 15
+  min_crop: 0.8
+  max_aspect_ratio: 1.2
